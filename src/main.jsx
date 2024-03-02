@@ -6,7 +6,7 @@ import './assets/styles/style.css'
 import './assets/styles/dashboard.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
+  <BrowserRouter> 
     <App />
   </BrowserRouter>
 )
